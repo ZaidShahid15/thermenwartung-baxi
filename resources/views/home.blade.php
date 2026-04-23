@@ -734,7 +734,14 @@ FÜR DEN HERBST</h2>				</div>
 						</div>
 				<div class="elementor-element elementor-element-c3f935b elementor-widget elementor-widget-video" data-id="c3f935b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=7tMBkTWsyGk&amp;t=34s&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;}" data-widget_type="video.default">
 							<div class="elementor-wrapper elementor-open-inline">
-			<div class="elementor-video"></div>		</div>
+			<iframe
+				class="elementor-video"
+				src="https://www.youtube.com/embed/7tMBkTWsyGk?start=34&autoplay=1&mute=1&loop=1&playlist=7tMBkTWsyGk&rel=0"
+				title="Unsere glücklichen Kunden"
+				allow="autoplay; encrypted-media; picture-in-picture"
+				allowfullscreen
+				loading="lazy"
+			></iframe>		</div>
 						</div>
 				<div class="elementor-element elementor-element-6aba4cb elementor-widget elementor-widget-icon-box" data-id="6aba4cb" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
 							<div class="elementor-icon-box-wrapper">
